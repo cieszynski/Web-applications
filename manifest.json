@@ -34,5 +34,8 @@
             ],
             "launch_type": "single-client"
         }
+    ],
+    "display_override": [
+        "window-controls-overlay"
     ]
 }
