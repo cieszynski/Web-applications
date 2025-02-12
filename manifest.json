@@ -13,13 +13,13 @@
             "type": "image/png"
         }
     ],
-    "start_url": ".",
+    "start_url": "../index.html",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff",
     "file_handlers": [
         {
-            "action": ".",
+            "action": "../index.html",
             "accept": {
                 "text/plain": [
                     ".bla"
